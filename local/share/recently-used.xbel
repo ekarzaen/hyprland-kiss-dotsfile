@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///mnt/6111414F04725D12/Pass.txt" added="2025-06-10T15:02:36.976189Z" modified="2025-06-13T13:49:04.906075Z" visited="2025-06-10T15:02:36.976189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:49:02.011437Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T13:49:04.906073Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/hyprpaper.conf" added="2025-06-10T15:07:52.617192Z" modified="2025-06-12T09:13:18.155258Z" visited="2025-06-10T15:07:52.617193Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T09:13:18.155256Z" count="16"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T09:12:57.744624Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/hyprland.conf" added="2025-06-10T15:10:33.671639Z" modified="2025-06-13T06:58:50.703963Z" visited="2025-06-10T15:10:33.671639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T06:58:50.703961Z" count="87"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T06:58:50.217662Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config" added="2025-06-10T15:27:57.681040Z" modified="2025-06-10T15:28:00.616469Z" visited="2025-06-10T15:27:57.681040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-10T15:28:00.616467Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.bashrc" added="2025-06-10T15:50:30.426591Z" modified="2025-06-13T04:14:48.152382Z" visited="2025-06-10T15:50:30.426592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T04:14:48.152380Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T04:14:47.663579Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/waybar/.gitignore" added="2025-06-10T16:05:35.814121Z" modified="2025-06-10T16:05:36.282207Z" visited="2025-06-10T16:05:35.814122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-10T16:05:35.814124Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-10T16:05:36.282205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config.jsonc" added="2025-06-10T16:06:20.683737Z" modified="2025-06-13T13:28:55.269837Z" visited="2025-06-10T16:06:20.683738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:25:23.748686Z" count="66"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T13:28:55.269835Z" count="246"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config-gitlab.jsonc" added="2025-06-10T16:11:50.775536Z" modified="2025-06-10T16:11:51.364261Z" visited="2025-06-10T16:11:50.775537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-10T16:11:50.775538Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-10T16:11:51.364258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/style.css" added="2025-06-10T16:12:42.963940Z" modified="2025-06-13T13:28:21.593302Z" visited="2025-06-10T16:12:42.963941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T13:28:21.593300Z" count="192"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:27:55.665028Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/theme.css" added="2025-06-10T16:42:04.549937Z" modified="2025-06-11T14:08:23.547538Z" visited="2025-06-10T16:42:04.549937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T14:08:23.547536Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/macchiato.conf" added="2025-06-11T00:40:51.307405Z" modified="2025-06-11T00:41:03.964572Z" visited="2025-06-11T00:40:51.307405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T00:41:03.964570Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/macchiato.css" added="2025-06-11T00:42:07.625782Z" modified="2025-06-13T03:30:26.678472Z" visited="2025-06-11T00:42:07.625783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T03:30:26.678469Z" count="16"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T14:57:42.698296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/New%20Empty%20File" added="2025-06-11T00:49:41.441539Z" modified="2025-06-11T00:49:41.441544Z" visited="2025-06-11T00:49:41.441540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T00:49:41.441541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/animation.conf" added="2025-06-11T00:51:15.596077Z" modified="2025-06-11T00:51:15.596082Z" visited="2025-06-11T00:51:15.596077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T00:51:15.596079Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/lookandfeel.conf" added="2025-06-11T00:53:30.786672Z" modified="2025-06-13T07:04:27.365314Z" visited="2025-06-11T00:53:30.786673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T07:04:27.365310Z" count="11"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T17:46:10.997606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/keybinds.conf" added="2025-06-11T00:54:21.012904Z" modified="2025-06-13T12:23:37.847461Z" visited="2025-06-11T00:54:21.012905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T12:23:37.847459Z" count="98"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:18:53.953292Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/simple-bspwm-dotfiles/config/sxhkd/sxhkdrc" added="2025-06-11T01:24:50.705781Z" modified="2025-06-11T01:24:51.295367Z" visited="2025-06-11T01:24:50.705782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:24:50.705783Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:24:51.295363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/colors.rasi" added="2025-06-11T01:32:20.790485Z" modified="2025-06-11T01:32:29.715033Z" visited="2025-06-11T01:32:20.790487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:32:20.790488Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:32:29.715028Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/fonts.rasi" added="2025-06-11T01:32:57.560374Z" modified="2025-06-11T01:43:16.411033Z" visited="2025-06-11T01:32:57.560375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:43:15.824722Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:43:16.411030Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/menu.rasi" added="2025-06-11T01:33:46.887237Z" modified="2025-06-11T01:46:22.447926Z" visited="2025-06-11T01:33:46.887238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:33:46.887240Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:46:22.447924Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/config.rasi" added="2025-06-11T01:34:19.759104Z" modified="2025-06-11T01:44:06.848192Z" visited="2025-06-11T01:34:19.759105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:43:21.288959Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:44:06.848187Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu.rasi" added="2025-06-11T01:34:50.468458Z" modified="2025-06-11T01:50:06.459183Z" visited="2025-06-11T01:34:50.468459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T01:42:46.312627Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T01:50:06.459181Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu.sh" added="2025-06-11T01:35:19.032305Z" modified="2025-06-11T02:20:37.784441Z" visited="2025-06-11T01:35:19.032306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T02:20:30.632182Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T02:20:37.784438Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/simple-bspwm-dotfiles/config/rofi/powermenu/type-2/powermenu.sh" added="2025-06-11T02:21:13.224911Z" modified="2025-06-11T02:26:47.497265Z" visited="2025-06-11T02:21:13.224912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T02:26:46.892935Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T02:26:47.497263Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu/type-2/shared/colors.rasi" added="2025-06-11T04:12:37.621175Z" modified="2025-06-11T04:12:38.277973Z" visited="2025-06-11T04:12:37.621176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T04:12:37.621178Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T04:12:38.277970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu/type-2/powermenu.sh" added="2025-06-11T04:22:12.422653Z" modified="2025-06-13T02:40:05.337308Z" visited="2025-06-11T04:22:12.422653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:40:05.337306Z" count="23"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T15:47:30.452306Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/hyprlock.conf" added="2025-06-11T04:37:53.760131Z" modified="2025-06-12T10:07:05.909966Z" visited="2025-06-11T04:37:53.760132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T10:07:05.373010Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T10:07:05.909960Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Downloads/wallhaven-4yzqg7.jpg" added="2025-06-11T04:40:07.083950Z" modified="2025-06-11T04:40:07.083966Z" visited="2025-06-11T04:40:07.083952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2025-06-11T04:40:07.083957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/hypridle.conf" added="2025-06-11T04:43:49.905345Z" modified="2025-06-12T10:10:52.367327Z" visited="2025-06-11T04:43:49.905346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T10:08:26.973339Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T10:10:52.367325Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config.ctl" added="2025-06-11T14:01:38.418133Z" modified="2025-06-11T14:01:48.376533Z" visited="2025-06-11T14:01:38.418133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T14:01:48.376530Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/modules/backlight.jsonc" added="2025-06-11T14:05:16.136324Z" modified="2025-06-11T14:05:25.153813Z" visited="2025-06-11T14:05:16.136325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T14:05:25.153809Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/modules/battery.jsonc" added="2025-06-11T14:06:18.495026Z" modified="2025-06-11T14:06:27.942842Z" visited="2025-06-11T14:06:18.495026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T14:06:27.942840Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/volumecontrol.sh" added="2025-06-11T14:21:32.928878Z" modified="2025-06-12T15:39:11.590937Z" visited="2025-06-11T14:21:32.928879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T15:39:11.590935Z" count="10"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T15:37:38.644063Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu/type-2/New%20Empty%20File.txt" added="2025-06-11T15:27:55.272683Z" modified="2025-06-11T15:28:08.324148Z" visited="2025-06-11T15:27:55.272683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-11T15:28:08.324146Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T15:27:56.001608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu/type-1/powermenu.sh" added="2025-06-11T15:45:56.791608Z" modified="2025-06-13T02:40:35.254124Z" visited="2025-06-11T15:45:56.791608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:40:35.254122Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config%20(copy%201).jsonc" added="2025-06-11T15:54:55.366460Z" modified="2025-06-13T02:33:33.032981Z" visited="2025-06-11T15:54:55.366462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:33:33.032979Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T16:05:56.627937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/WhatsApp%20Image%202025-05-23%20at%2018.21.14.jpeg" added="2025-06-11T16:47:25.273357Z" modified="2025-06-11T16:47:25.273362Z" visited="2025-06-11T16:47:25.273358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T16:47:25.273359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/RKK_KATALOG5.pdf" added="2025-06-11T16:47:35.976959Z" modified="2025-06-12T10:13:26.837402Z" visited="2025-06-11T16:47:35.976960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T10:13:26.837399Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Video/Hobbit/Hobbit-%20The%20Battle%20of%20the%20Five%20Armies/The%20Battle%20of%20the%20Five%20Armies.mkv" added="2025-06-11T17:07:12.831538Z" modified="2025-06-11T17:07:12.831543Z" visited="2025-06-11T17:07:12.831539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-11T17:07:12.831540Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/windowrules.conf" added="2025-06-11T17:33:14.310044Z" modified="2025-06-13T12:26:15.960438Z" visited="2025-06-11T17:33:14.310044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T12:26:15.960435Z" count="76"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:24:55.061339Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waypaper/config.ini" added="2025-06-12T08:43:17.765255Z" modified="2025-06-12T09:18:32.190274Z" visited="2025-06-12T08:43:17.765256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T08:57:21.293333Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T09:18:32.190270Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Pictures/Wallpaper" added="2025-06-12T08:44:54.678330Z" modified="2025-06-12T08:53:28.411197Z" visited="2025-06-12T08:44:54.678331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="waypaper" exec="&apos;waypaper %u&apos;" modified="2025-06-12T08:53:28.411195Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/hyprpaper%20(copy%201).conf" added="2025-06-12T09:13:08.870664Z" modified="2025-06-12T09:13:08.870669Z" visited="2025-06-12T09:13:08.870665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T09:13:08.870666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/dunst/dunstrc" added="2025-06-12T10:37:19.130428Z" modified="2025-06-12T10:37:30.921786Z" visited="2025-06-12T10:37:19.130429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T10:37:19.130431Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T10:37:30.921784Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/screenshot.sh" added="2025-06-12T13:24:46.265095Z" modified="2025-06-13T12:11:50.802418Z" visited="2025-06-12T13:24:46.265097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T11:35:15.587703Z" count="7"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T12:11:50.802414Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/globalcontrol.sh" added="2025-06-12T13:48:17.154345Z" modified="2025-06-12T13:48:38.302462Z" visited="2025-06-12T13:48:17.154346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T13:48:17.154347Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T13:48:38.302460Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Program%20Master/LINUX/ARCHLINUX.txt" added="2025-06-12T14:11:40.440290Z" modified="2025-06-13T05:13:40.045480Z" visited="2025-06-12T14:11:40.440292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T05:13:39.498585Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:13:40.045478Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Program%20Master/LINUX/UFW.txt" added="2025-06-12T14:12:48.387708Z" modified="2025-06-12T14:12:51.122315Z" visited="2025-06-12T14:12:48.387709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T14:12:48.387710Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T14:12:51.122311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/KTP_STEGUH.jpg" added="2025-06-12T14:14:24.726564Z" modified="2025-06-12T14:15:53.420654Z" visited="2025-06-12T14:14:24.726565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T14:15:53.420648Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/RAB/Pronojiwo.xlsx" added="2025-06-12T14:33:52.196410Z" modified="2025-06-12T14:37:20.455520Z" visited="2025-06-12T14:33:52.196411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T14:33:52.196413Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-12T14:37:20.455517Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/RAB/PondokWuluh.xlsx" added="2025-06-12T14:34:05.057530Z" modified="2025-06-12T14:34:06.340676Z" visited="2025-06-12T14:34:05.057531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-12T14:34:06.340673Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/brightnesscontrol.sh" added="2025-06-12T14:41:20.607453Z" modified="2025-06-12T15:32:05.820404Z" visited="2025-06-12T14:41:20.607455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T14:41:20.607457Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T15:32:05.820402Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/mimeapps.list" added="2025-06-12T14:59:25.844262Z" modified="2025-06-12T17:48:22.132289Z" visited="2025-06-12T14:59:25.844262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T17:48:22.132287Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T15:14:49.671164Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/share/applications/defaults.list" added="2025-06-12T15:11:54.148924Z" modified="2025-06-12T15:14:12.325928Z" visited="2025-06-12T15:11:54.148924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T15:14:12.325925Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Downloads/prasanthrangan%20hyprdots%20main%20Configs-.config_dunst/wallbash.conf" added="2025-06-12T15:15:53.256090Z" modified="2025-06-12T15:15:53.808162Z" visited="2025-06-12T15:15:53.256091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T15:15:53.256092Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T15:15:53.808159Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/hypr/autostart.conf" added="2025-06-12T15:43:24.292848Z" modified="2025-06-13T13:24:29.628218Z" visited="2025-06-12T15:43:24.292849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T13:24:29.628215Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:24:21.038607Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/polkitkdeauth.sh" added="2025-06-12T15:56:33.312338Z" modified="2025-06-12T16:11:11.524768Z" visited="2025-06-12T15:56:33.312340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T15:56:33.312343Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T16:11:11.524763Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/simple-bspwm-dotfiles/config/bspwm/bspwmrc" added="2025-06-12T16:11:42.428266Z" modified="2025-06-12T16:11:42.428272Z" visited="2025-06-12T16:11:42.428267Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T16:11:42.428269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/Code-OSS/settings.json" added="2025-06-12T17:19:52.456248Z" modified="2025-06-12T17:19:52.456252Z" visited="2025-06-12T17:19:52.456248Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T17:19:52.456250Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/Kvantum/kvantum.kvconfig" added="2025-06-12T17:32:01.905130Z" modified="2025-06-12T17:32:02.380479Z" visited="2025-06-12T17:32:01.905131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T17:32:01.905132Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T17:32:02.380476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/code-flags.conf" added="2025-06-12T17:38:19.769501Z" modified="2025-06-13T05:19:54.551716Z" visited="2025-06-12T17:38:19.769503Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T05:19:54.082435Z" count="4"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:19:54.551714Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/share/applications/code.desktop" added="2025-06-12T17:47:01.332640Z" modified="2025-06-12T17:50:56.904750Z" visited="2025-06-12T17:47:01.332640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T17:47:01.332642Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T17:50:56.904747Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/electron-flags.conf" added="2025-06-12T17:51:58.931647Z" modified="2025-06-13T05:19:51.879519Z" visited="2025-06-12T17:51:58.931648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T05:19:39.807304Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:19:51.879517Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/electron34-flags.conf" added="2025-06-12T17:54:05.862354Z" modified="2025-06-12T17:54:06.344091Z" visited="2025-06-12T17:54:05.862355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T17:54:05.862357Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T17:54:06.344088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/RAB/KALIBENDO.xlsx" added="2025-06-12T18:00:34.750674Z" modified="2025-06-13T12:32:08.543028Z" visited="2025-06-12T18:00:34.750675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T18:00:34.750676Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:32:08.543026Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/PJU7_KALIBENDO.pdf" added="2025-06-12T18:11:07.334254Z" modified="2025-06-13T12:46:39.818488Z" visited="2025-06-12T18:11:07.334254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-12T18:11:07.334255Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:43:54.317519Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:46:39.818486Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/KALIBENDO.xlsx-job_1.pdf" added="2025-06-12T18:11:07.334265Z" modified="2025-06-12T18:12:19.715364Z" visited="2025-06-12T18:11:07.334266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-12T18:11:07.334266Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T18:12:19.715362Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/KALIBENDO.xlsx-job_1-001.pdf" added="2025-06-12T18:11:28.502435Z" modified="2025-06-12T18:15:06.887968Z" visited="2025-06-12T18:11:28.502435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-12T18:13:22.982100Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T18:13:48.038512Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-06-12T18:15:06.887964Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/kitty/kitty.conf" added="2025-06-12T18:18:22.722844Z" modified="2025-06-12T18:18:55.484813Z" visited="2025-06-12T18:18:22.722845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-12T18:18:22.722847Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T18:18:55.484807Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/kitty/userprefs.conf" added="2025-06-12T18:18:25.147313Z" modified="2025-06-12T18:18:25.147317Z" visited="2025-06-12T18:18:25.147313Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-12T18:18:25.147315Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/launchers/type-1/launcher.sh" added="2025-06-13T02:01:13.881978Z" modified="2025-06-13T02:06:47.456245Z" visited="2025-06-13T02:01:13.881978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:06:47.456243Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/launchers/type-1/style-6.rasi" added="2025-06-13T02:02:51.180852Z" modified="2025-06-13T02:02:51.180860Z" visited="2025-06-13T02:02:51.180853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:02:51.180856Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/launchers/type-1/shared/colors.rasi" added="2025-06-13T02:03:06.756609Z" modified="2025-06-13T02:03:56.694885Z" visited="2025-06-13T02:03:06.756609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:03:56.694882Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/colors/onedark.rasi" added="2025-06-13T02:04:39.841310Z" modified="2025-06-13T02:04:39.841315Z" visited="2025-06-13T02:04:39.841310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:04:39.841312Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/style%20(copy%201).css" added="2025-06-13T02:19:43.655718Z" modified="2025-06-13T02:19:43.655723Z" visited="2025-06-13T02:19:43.655718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:19:43.655720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/config.jsonc" added="2025-06-13T02:32:24.738022Z" modified="2025-06-13T03:44:31.359562Z" visited="2025-06-13T02:32:24.738023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T03:44:31.359558Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T02:41:24.887453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/rofi/powermenu/type-1/style-2.rasi" added="2025-06-13T02:39:25.976389Z" modified="2025-06-13T02:39:25.976394Z" visited="2025-06-13T02:39:25.976390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T02:39:25.976391Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/style.css" added="2025-06-13T03:34:50.496800Z" modified="2025-06-13T03:34:50.496805Z" visited="2025-06-13T03:34:50.496801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T03:34:50.496802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.zshrc" added="2025-06-13T04:14:11.183309Z" modified="2025-06-13T08:32:13.716638Z" visited="2025-06-13T04:14:11.183310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-06-13T08:31:53.797292Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T08:32:13.716637Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.zshrc.pre-oh-my-zsh" added="2025-06-13T04:21:30.287282Z" modified="2025-06-13T04:21:30.761922Z" visited="2025-06-13T04:21:30.287283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T04:21:30.287284Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T04:21:30.761919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/starship.toml" added="2025-06-13T05:10:50.539719Z" modified="2025-06-13T05:10:51.021478Z" visited="2025-06-13T05:10:50.539720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T05:10:50.539721Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:10:51.021476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.aria2/aria2.conf" added="2025-06-13T05:16:16.522930Z" modified="2025-06-13T05:16:41.466004Z" visited="2025-06-13T05:16:16.522931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T05:16:21.086594Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:16:41.466001Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.bash_history" added="2025-06-13T05:17:12.397703Z" modified="2025-06-13T13:33:21.191870Z" visited="2025-06-13T05:17:12.397704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:33:20.557031Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T13:33:21.191868Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/screenshot%20(copy%201).sh" added="2025-06-13T05:31:38.952235Z" modified="2025-06-13T05:31:38.952241Z" visited="2025-06-13T05:31:38.952236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T05:31:38.952237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/grimblast" added="2025-06-13T05:40:09.039550Z" modified="2025-06-13T06:08:01.543359Z" visited="2025-06-13T05:40:09.039551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T06:08:01.543356Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/swappy/config" added="2025-06-13T06:07:24.472511Z" modified="2025-06-13T06:07:24.472519Z" visited="2025-06-13T06:07:24.472512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T06:07:24.472515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/config_one.jsonc" added="2025-06-13T06:25:59.496485Z" modified="2025-06-13T06:48:36.141395Z" visited="2025-06-13T06:25:59.496486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T06:48:36.141393Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.config/waybar/style_one.css" added="2025-06-13T06:26:11.807025Z" modified="2025-06-13T06:28:28.111288Z" visited="2025-06-13T06:26:11.807025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T06:28:28.111284Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.themes/Catppuccin-Dark-Macchiato/gtk-3.0/gtk-dark.css" added="2025-06-13T08:01:48.712350Z" modified="2025-06-13T08:13:57.184892Z" visited="2025-06-13T08:01:48.712352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-06-13T08:04:41.705835Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T08:13:57.184890Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.themes/Catppuccin-Dark-Macchiato/gtk-3.0/gtk.css" added="2025-06-13T08:04:32.087164Z" modified="2025-06-13T08:04:32.811854Z" visited="2025-06-13T08:04:32.087165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-06-13T08:04:32.087168Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T08:04:32.811852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.themes/Layan-Dark/gtk-3.0/gtk-dark.css" added="2025-06-13T08:09:39.765005Z" modified="2025-06-13T08:09:39.765009Z" visited="2025-06-13T08:09:39.765005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T08:09:39.765007Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Pictures/Screenshots/250612_20h51m54s_screenshot.png" added="2025-06-13T08:38:43.810060Z" modified="2025-06-13T09:44:03.345368Z" visited="2025-06-13T08:38:43.810061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T09:44:03.345365Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/ScreenShot.sh" added="2025-06-13T09:49:46.571448Z" modified="2025-06-13T10:00:28.448049Z" visited="2025-06-13T09:49:46.571449Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T09:57:31.415065Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T10:00:28.448047Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/Sounds.sh" added="2025-06-13T09:50:26.567802Z" modified="2025-06-13T09:50:34.530604Z" visited="2025-06-13T09:50:26.567803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T09:50:26.567805Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T09:50:34.530602Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Pictures/Screenshots/Screenshot_13-Jun_16-52-35_16309.png" added="2025-06-13T09:52:50.967880Z" modified="2025-06-13T09:54:07.875022Z" visited="2025-06-13T09:52:50.967881Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T09:54:07.875017Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/screenshot" added="2025-06-13T10:10:40.186810Z" modified="2025-06-13T10:10:47.777736Z" visited="2025-06-13T10:10:40.186810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T10:10:47.777730Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/.local/bin/screenshot-and-open" added="2025-06-13T10:11:09.426052Z" modified="2025-06-13T10:11:15.783286Z" visited="2025-06-13T10:11:09.426053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2025-06-13T10:11:15.783283Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Pictures/2025-06-13-174154_hyprshot.png" added="2025-06-13T10:42:49.175225Z" modified="2025-06-13T10:42:49.175234Z" visited="2025-06-13T10:42:49.175226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T10:42:49.175228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Video/LOTR/1%20-%20Fellowship%20of%20The%20Ring/The%20Fellowship%20of%20the%20Ring.mkv" added="2025-06-13T12:26:28.256190Z" modified="2025-06-13T12:26:28.256196Z" visited="2025-06-13T12:26:28.256191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:26:28.256192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/SPJ/LPJ_TAMANAYUx.docx" added="2025-06-13T12:28:28.077475Z" modified="2025-06-13T13:03:43.322984Z" visited="2025-06-13T12:28:28.077476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:57:50.491784Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T13:03:43.322981Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/RAB/TAMANAYU.xlsx" added="2025-06-13T12:29:14.916751Z" modified="2025-06-13T12:45:52.216831Z" visited="2025-06-13T12:29:14.916752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:32:37.047456Z" count="2"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:45:52.216830Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/TAMANAYU.xlsx-job_2.pdf" added="2025-06-13T12:41:24.820665Z" modified="2025-06-13T12:55:56.701211Z" visited="2025-06-13T12:41:24.820666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:41:24.820667Z" count="1"/>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-13T12:55:56.701210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/PJU7_TAMANAYU" added="2025-06-13T12:42:59.349157Z" modified="2025-06-13T12:54:58.881592Z" visited="2025-06-13T12:42:59.349159Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:54:58.881585Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/PJU7_TAMANAYU.odg" added="2025-06-13T12:43:00.909464Z" modified="2025-06-13T12:45:28.241050Z" visited="2025-06-13T12:43:00.909465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:45:28.241047Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/DESAIN/PJU7M.dxf" added="2025-06-13T12:47:06.090159Z" modified="2025-06-13T12:52:04.053289Z" visited="2025-06-13T12:47:06.090160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.dxf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:52:04.053288Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/xxxx" added="2025-06-13T12:48:50.917710Z" modified="2025-06-13T12:50:58.651947Z" visited="2025-06-13T12:48:50.917710Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:50:54.387029Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:50:58.651945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/DESAIN/PJU.dxf" added="2025-06-13T12:51:38.705134Z" modified="2025-06-13T12:51:38.705140Z" visited="2025-06-13T12:51:38.705135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.dxf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:51:38.705136Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/PJU_EDIT.odg" added="2025-06-13T12:53:35.196455Z" modified="2025-06-13T12:57:27.088342Z" visited="2025-06-13T12:53:35.196456Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:53:35.196458Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T12:57:27.088340Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/PJU7_TAMANAYU.pdf" added="2025-06-13T12:55:06.507281Z" modified="2025-06-13T12:55:56.701202Z" visited="2025-06-13T12:55:06.507282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:55:06.507283Z" count="1"/>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-13T12:55:56.701200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/PJU7_TAMANAYU-001.pdf" added="2025-06-13T12:56:18.617645Z" modified="2025-06-13T12:57:04.045261Z" visited="2025-06-13T12:56:18.617646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="PDF Arranger" exec="&apos;com.github.jeromerobert.pdfarranger %u&apos;" modified="2025-06-13T12:56:18.617648Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T12:56:27.240344Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-06-13T12:57:04.045255Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/LPJ_TAMANAYUx.docx-job_3.pdf" added="2025-06-13T13:01:34.565816Z" modified="2025-06-13T13:03:16.631212Z" visited="2025-06-13T13:01:34.565817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:01:34.565819Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-06-13T13:03:16.631211Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/SPJ/CVEE_TAMANAYU.docx" added="2025-06-13T13:02:01.274097Z" modified="2025-06-13T13:02:05.206919Z" visited="2025-06-13T13:02:01.274098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:02:01.274100Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T13:02:05.206917Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/6111414F04725D12/Dokumen/Proyek/ERZA/SPJ/NICE_TAMANAYU.docx" added="2025-06-13T13:02:37.762408Z" modified="2025-06-13T13:03:40.121443Z" visited="2025-06-13T13:02:37.762408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 24.8" exec="&apos;soffice %u&apos;" modified="2025-06-13T13:03:40.121440Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/CVEE_TAMANAYU.docx-job_4.pdf" added="2025-06-13T13:03:16.616908Z" modified="2025-06-13T13:03:16.631202Z" visited="2025-06-13T13:03:16.616910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-06-13T13:03:16.631199Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Documents/NICE_TAMANAYU.docx-job_5.pdf" added="2025-06-13T13:03:16.616925Z" modified="2025-06-13T13:03:16.631219Z" visited="2025-06-13T13:03:16.616926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2025-06-13T13:03:16.631218Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ramaxd/Pictures/Screenshots/13-06-2025+20:32:16.png" added="2025-06-13T13:32:27.795583Z" modified="2025-06-13T13:32:27.795590Z" visited="2025-06-13T13:32:27.795584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T13:32:27.795586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
