@@ -1,0 +1,10 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;
+application/x-shellscript=org.gnome.gedit.desktop;
+text/x-csrc=org.gnome.gedit.desktop;
+image/jpeg=org.gnome.gThumb.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;libreoffice-draw.desktop;com.github.jeromerobert.pdfarranger.desktop;
+image/png=swappy.desktop;org.gnome.gThumb.desktop;
+
+[Default Applications]
+image/png=org.gnome.gThumb.desktop
