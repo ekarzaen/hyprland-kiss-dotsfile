@@ -13,12 +13,14 @@
 "margin-right": 8,
 
 "modules-left": [
+	"clock#2",
+	"custom/separator#dot-line",
 	"hyprland/workspaces#roman",
 	"custom/separator#dot-line",
 	"hyprland/window",
 	],
 
-"modules-center": ["clock#2"],
+"modules-center": [],
 
 "modules-right": [
 	"memory",

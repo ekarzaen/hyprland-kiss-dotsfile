@@ -38,6 +38,7 @@ yad --width=$dynamic_width --height=$dynamic_height \
     --column=Command: \
     --timeout-indicator=bottom \
 "ESC" "close this app" "" "=" "SUPER KEY (Windows Key)" "(SUPER KEY)" \
+" R" "Restart waybar" "(Waybar)" \
 "" "" "" \
 "" "APPLICATION" "" \
 " enter" "Terminal" "(Kitty)" \
