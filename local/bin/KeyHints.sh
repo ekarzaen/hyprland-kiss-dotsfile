@@ -41,23 +41,24 @@ yad --width=$dynamic_width --height=$dynamic_height \
 "" "" "" \
 "" "APPLICATION" "" \
 " enter" "Terminal" "(kitty)" \
-" or  D" "App Launcher" "(rofi)" \
+" or  D" "App Launcher" "(Rofi)" \
 " E" "Open File Manager" "(Thunar)" \
 " B" "Open browser" "(Chromium/Firefox)" \
-" Q" "closes a specified window" "(window)" \
-" Shift W" "Choose wallpaper" "(Wallpaper Menu)" \
-"Print" "screenshot" "(grim)" \
-" Shift Print" "Screenshot area select" "(grim + slurp)" \
-" X" "power-menu" "(rofi powermenu)" \
+" Q" "Closes a specified window" "(Window)" \
+" Shift W" "Choose wallpaper" "(Wallpaper menu)" \
+"Print" "Screenshot" "(Grim)" \
+" Shift Print" "Screenshot area select" "(Grim + Slurp)" \
+" X" "Power-menu" "(Rofi powermenu)" \
 " M" "Hyprland Exit" "(SAVE YOUR WORK!!!)" \
-" V" "Floating" "Toggles to floating window" \
-" K" "Toggle Dwindle | Pseudo" "Hyprland Layout" \
-" J" "Toggle split" "window" \
 " L" "Lock" "Hyprlock" \
 " Shift K" "Keybinds hint" "Keylist window" \
 "" "" "" \
 "" "WINDOW MANAGEMENT" "" \
-" G" "Toggle group" "toggle group window" \
+" T" "Toggle opague" "Toggle window opague" \
+" V" "Floating" "Toggles to floating window" \
+" K" "Toggle Dwindle | Pseudo" "Hyprland Layout" \
+" J" "Toggle split" "Window" \
+" G" "Toggle group" "Toggle group window" \
 " Left/Rght" "Change group active" "Group window" \
 " l+r+u+d" "Move focus with mainMod + arrow keys" "Focus window" \
 " 1-9" "Switch workspaces with mainMod + [0-9]" "Workspaces" \
