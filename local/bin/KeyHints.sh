@@ -47,6 +47,7 @@ yad --width=$dynamic_width --height=$dynamic_height \
 " Q" "Closes a specified window" "(Window)" \
 " Shift W" "Choose wallpaper" "(Wallpaper menu)" \
 "Print" "Screenshot current monitor" "Screenshot" \
+" Print" "Screenshot active window" "Screenshot" \
 "Shift Print" "Screenshot select region" "Screenshot" \
 " X" "Power-menu" "(Rofi powermenu)" \
 " M" "Hyprland Exit" "(SAVE YOUR WORK!!!)" \
