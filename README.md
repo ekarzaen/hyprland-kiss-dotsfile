@@ -23,5 +23,10 @@ Keep in mind that this configuration is not very fancy but it works for my perso
 * Themes manager: [nwg-look](https://github.com/nwg-piotr/nwg-look)
 * Lockscreen - [Hyprlock] (https://github.com/hyprwm/hyprlock)
 * NetworkManager - $ nmtui
-
+* Screenshoter - [Grim|Slurp|Wl-clipboard]
+* Notification - [Dunst] (https://github.com/dunst-project/dunst)
+* Wallpaper - [Swaybg] (https://github.com/swaywm/swaybg)
+* Wallpaper chooser - [Waypaper] (https://github.com/anufrievroman/waypaper)
+* Image Viewer - [Gthumb] (https://archlinux.org/packages/extra/x86_64/gthumb/)
+* PDF Viewer - [Zathura|Zathura-mupdf]
 
