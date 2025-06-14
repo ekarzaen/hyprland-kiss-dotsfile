@@ -46,7 +46,6 @@ yad --width=$dynamic_width --height=$dynamic_height \
 " B" "Open browser" "(Chromium/Firefox)" \
 " Q" "Closes a specified window" "(Window)" \
 " Shift W" "Choose wallpaper" "(Wallpaper menu)" \
-"Ctrl Alt Print" "Screenshot all monitors" "Screenshot" \
 "Print" "Screenshot current monitor" "Screenshot" \
 "Shift Print" "Screenshot select region" "Screenshot" \
 " X" "Power-menu" "(Rofi powermenu)" \

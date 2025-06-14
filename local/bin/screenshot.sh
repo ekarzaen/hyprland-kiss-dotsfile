@@ -1,44 +1,80 @@
-#!/usr/bin/env sh
+#!/bin/bash
 
-if [ -z "$XDG_PICTURES_DIR" ] ; then
-    XDG_PICTURES_DIR="$HOME/Pictures"
-fi
+iDIR="$HOME/.config/dunst/icons"
 
-ScrDir=`dirname $(realpath $0)`
-swpy_dir="$HOME/.config/swappy"
-save_dir="${2:-$XDG_PICTURES_DIR/Screenshots}"
-save_file=$(date +'%y%m%d_%Hh%Mm%Ss_screenshot.png')
-temp_screenshot="/tmp/screenshot.png"
+time=$(date +%Y-%m-%d-%H-%M-%S)
+dir="$(xdg-user-dir)/Pictures/Screenshots"
+file="Screenshot_${time}_${RANDOM}.png"
 
-mkdir -p $save_dir
-mkdir -p $swpy_dir
-echo -e "[Default]\nsave_dir=$save_dir\nsave_filename_format=$save_file" > $swpy_dir/config
-
-function print_error
-{
-cat << "EOF"
-    ./screenshot.sh <action>
-    ...valid actions are...
-        p : print all screens
-        s : snip current screen
-        m : print focused monitor
-EOF
+# notify and view screenshot
+notify_cmd_shot="notify-send -h string:x-canonical-private-synchronous:shot-notify -u low -i ${iDIR}/picture.png"
+notify_view() {
+	${notify_cmd_shot} "Copied to clipboard."
+##	viewnior ${dir}/"$file"
+	if [[ -e "$dir/$file" ]]; then
+		${notify_cmd_shot} "Screenshot Saved."
+	else
+		${notify_cmd_shot} "Screenshot Deleted."
+	fi
 }
 
-case $1 in
-p)  # print all outputs
-    grimblast copysave screen $temp_screenshot && swappy -f $temp_screenshot ;;
-s)  # drag to manually snip an area / click on a window to print it
-    grimblast --freeze copysave area $temp_screenshot && swappy -f $temp_screenshot ;;
-m)  # print focused monitor
-    grimblast copysave output $temp_screenshot && swappy -f $temp_screenshot ;;
-*)  # invalid option
-    print_error ;;
-esac
+# countdown
+countdown() {
+	for sec in $(seq $1 -1 1); do
+		notify-send -h string:x-canonical-private-synchronous:shot-notify -t 1000 -i "$iDIR"/timer.png "Taking shot in : $sec"
+		sleep 1
+	done
+}
 
-rm "$temp_screenshot"
+# take shots
+shotnow() {
+	cd ${dir} && grim - | tee "$file" | wl-copy
+	sleep 2
+	notify_view
+}
 
-if [ -f "$save_dir/$save_file" ] ; then
-    dunstify "t1" -a "saved in $save_dir" -i "$save_dir/$save_file" -r 91190 -t 2200
+shot5() {
+	countdown '5'
+	sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
+	sleep 1
+	notify_view
+	
+}
+
+shot10() {
+	countdown '10'
+	sleep 1 && cd ${dir} && grim - | tee "$file" | wl-copy
+	notify_view
+}
+
+shotwin() {
+	w_pos=$(hyprctl activewindow | grep 'at:' | cut -d':' -f2 | tr -d ' ' | tail -n1)
+	w_size=$(hyprctl activewindow | grep 'size:' | cut -d':' -f2 | tr -d ' ' | tail -n1 | sed s/,/x/g)
+	cd ${dir} && grim -g "$w_pos $w_size" - | tee "$file" | wl-copy
+	notify_view
+}
+
+shotarea() {
+	cd ${dir} && grim -g "$(slurp)" - | tee "$file" | wl-copy
+	notify_view
+}
+
+if [[ ! -d "$dir" ]]; then
+	mkdir -p "$dir"
 fi
 
+if [[ "$1" == "--now" ]]; then
+	shotnow
+elif [[ "$1" == "--in5" ]]; then
+	shot5
+elif [[ "$1" == "--in10" ]]; then
+	shot10
+elif [[ "$1" == "--win" ]]; then
+	shotwin
+elif [[ "$1" == "--area" ]]; then
+	shotarea
+else
+	echo -e "Available Options : --now --in5 --in10 --win --area"
+fi
+
+exit 0
