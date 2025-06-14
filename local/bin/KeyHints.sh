@@ -40,7 +40,7 @@ yad --width=$dynamic_width --height=$dynamic_height \
 "ESC" "close this app" "" "=" "SUPER KEY (Windows Key)" "(SUPER KEY)" \
 "" "" "" \
 "" "APPLICATION" "" \
-" enter" "Terminal" "(kitty)" \
+" enter" "Terminal" "(Kitty)" \
 " or  D" "App Launcher" "(Rofi)" \
 " E" "Open File Manager" "(Thunar)" \
 " B" "Open browser" "(Chromium/Firefox)" \
