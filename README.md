@@ -16,6 +16,7 @@ Keep in mind that this configuration is not very fancy but it works for my perso
 ## Information
 
 * OS - [Arch](https://archlinux.org)
+* Display Manager - [SDDM](https://wiki.archlinux.org/title/SDDM)
 * WM - [Hyprland](https://hyprland.org/)
 * Bar: [Waybar](https://github.com/Alexays/Waybar)
 * Launcher : [Rofi](https://github.com/davatorium/rofi)
