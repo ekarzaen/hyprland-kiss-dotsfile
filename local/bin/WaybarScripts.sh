@@ -3,6 +3,7 @@
 # This file used on waybar modules sourcing defaults set in $HOME/.config/hypr/UserConfigs/01-UserDefaults.conf
 
 term=kitty
+files=thunar
 # Check if $term is set correctly
 if [[ -z "$term" ]]; then
     echo "Error: \$term is not set in the configuration file!"

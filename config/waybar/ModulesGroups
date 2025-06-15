@@ -84,7 +84,7 @@
 	"orientation": "inherit",
 	"drawer": {
 		"transition-duration": 500,
-		"children-class": "custom/power",
+		"children-class": "custom/lock",
 		"transition-left-to-right": false
         },
 	"modules": [
