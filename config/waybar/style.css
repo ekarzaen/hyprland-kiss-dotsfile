@@ -120,20 +120,25 @@ window#waybar.hidden {
 }
 
 #cpu {
-  border-radius: 5px 0px 0px 5px;
   padding: 0px 5px;
+  border-radius: 5px;
+  margin-left: 5px;
   background-color: @yellow;
   color: @bg_yellow;
 }
 
 #memory {
   padding: 0px 5px;
+  border-radius: 5px;
+  margin-left: 5px;
   background-color: @yellow;
   color: @bg_yellow;
 }
 
 #temperature {
   padding: 0px 5px;
+  border-radius: 5px;
+  margin-left: 5px;
   background-color: @green;
   color: @bg_yellow;
 }
@@ -157,8 +162,9 @@ window#waybar.hidden {
   border-radius: 0px 5px 5px 0px;
 }
 #battery {
-  border-radius: 5px 0px 0px 5px;
   padding: 0px 5px;
+  border-radius: 5px;
+  margin-left: 5px;
   background-color: @aqua;
   color: @bg_yellow;
 }
@@ -187,17 +193,19 @@ window#waybar.hidden {
 }
 
 #backlight {
-  border-radius: 5px 0px 0px 5px;
   padding: 0px 5px;
+  border-radius: 5px;
   margin-left: 5px;
   background-color: @red;
   color: @black;
 }
 
 #network,
+#bluetooth,
 #pulseaudio {
   padding: 0px 5px;
-  border-radius: 0px 5px 5px 0px;
+  border-radius: 5px;
+  margin-left: 5px;
   background-color: @blue;
   color: @bg_yellow;
 }

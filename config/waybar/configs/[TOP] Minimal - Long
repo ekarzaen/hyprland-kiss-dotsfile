@@ -1,6 +1,7 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
 
-// ### DEFAULT Laptop  - Top ### //
+// ### Minimal - Long ### //
+
 {
 "include": [
   "$HOME/.config/waybar/Modules",
@@ -14,7 +15,7 @@
 "exclusive": true,
 "passthrough": false,
 "position": "top",
-"spacing": 3,
+"spacing": 6,
 "fixed-center": true,
 "ipc": true,
 "margin-top": 3,
@@ -22,27 +23,26 @@
 "margin-right": 8,
 
 "modules-left": [
-	"hyprland/workspaces#rw",
-	"custom/separator#dot-line",
-	"hyprland/window",
+	"custom/menu",
+	"custom/separator#blank_2", 
+	"hyprland/workspaces#pacman",
+	"custom/separator#blank_2",
+	"mpris",
+	"group/notify",
+	"tray",
 	],
-
 "modules-center": [
-	"clock#5",
-	"custom/separator#dot-line",
+	"clock",
 	"idle_inhibitor",
 	],
-
 "modules-right": [
-	"tray",
-	"network",
-	"custom/separator#dot-line",
-	"group/laptop",
-	"custom/separator#dot-line",
 	"group/mobo_drawer",
-	"custom/separator#line",  
+	"custom/separator#blank_2",
+	"group/laptop",
+	"custom/separator#blank_2",
 	"group/audio",
-	"custom/separator#dot-line", 
-	"group/power",
+	"custom/separator#blank_2",
+	"custom/power",
 	],
+
 }
