@@ -78,9 +78,8 @@ run_cmd() {
 			elif [[ "$DESKTOP_SESSION" == 'i3' ]]; then
 				i3-msg exit
 			elif [[ "$XDG_SESSION_DESKTOP" == 'Hyprland' ]]; then
-				#hyprctl dispatch exit
+				hyprctl dispatch exit 0
 				#loginctl terminate-user $USER
-				loginctl kill-session $XDG_SESSION_ID
 			fi
 		fi
 	else
