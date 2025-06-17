@@ -176,13 +176,13 @@
 // NOTE:! This is mainly for Arch and Arch Based Distros  depend: pacman-contrib
 // Other Distro dont have notifications but can use to check for update for any other distro
 "custom/updater": {
-	"format": " {}",
-	"exec": "checkupdates | wc -l",
-	"exec-if": "[[ $(checkupdates | wc -l) ]]",
-	"interval": 43200, // (Arch Linux will try to check 12 hrs interval only
-	"on-click": "$HOME/.local/bin/Distro_update.sh",
-	"tooltip": true,
-	"tooltip-format": "Left Click: Update System\nArch (w/ notification)\nFedora, OpenSuse, Debian/Ubuntu click to update",
+	"exec": "$HOME/.local/bin/systemupdate.sh",
+        "return-type": "json",
+        "format": "{}",
+        "on-click": "hyprctl dispatch exec '$HOME/.local/bin/systemupdate.sh up'",
+        "interval": 86400, // once every day
+        "tooltip": true,
+        "signal": 20,
 },
 // Separators
 "custom/separator#dot": {
