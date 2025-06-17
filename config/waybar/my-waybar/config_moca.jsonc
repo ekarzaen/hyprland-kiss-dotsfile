@@ -1,6 +1,6 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
 
-// ### DEFAULT - Top (old v2) ### //
+// ### DEFAULT (Laptop)  - Top (old v2) ### //
 {
 "include": [
   "$HOME/.config/waybar/Modules",
@@ -14,33 +14,43 @@
 "exclusive": true,
 "passthrough": false,
 "position": "top",
-"spacing": 1,
+"spacing": 3,
 "fixed-center": true,
 "ipc": true,
 "margin-top": 3,
-"margin-left": 2,
-"margin-right": 2,
+"margin-left": 8,
+"margin-right": 8,
 
 "modules-left": [
-	"group/app_drawer",
+	"custom/menu",
+	"custom/light_dark",
+	"custom/separator#line",
+	"power-profiles-daemon",
 	"group/mobo_drawer",
-	"custom/updater",
+	"custom/separator#blank",
+	"group/laptop",
 	],
 
 "modules-center": [
-	"custom/cava_mviz",
 	"clock#2",
-	"hyprland/workspaces#rw",
+	"custom/separator#line",
+	"hyprland/workspaces#roman",
+	"custom/separator#line",
 	"idle_inhibitor",	
 	"custom/hint",	
 	], 
 
 "modules-right": [
-	"hyprland/window",
+	"network#speed",
 	"custom/separator#line",
 	"group/connections",
-	"backlight",
+	"custom/separator#line",
+	"tray",
+	"mpris", 
 	"group/audio",
+	"custom/separator#line",
+	"keyboard-state",
+	"custom/keyboard",
 	"custom/lock",
 	"custom/power",
 	],

@@ -24,22 +24,22 @@
 "modules-left": [
 	"group/app_drawer",
 	"group/mobo_drawer",
-	"custom/updater",
+	"hyprland/workspaces#rw",
+	"custom/separator#line",
+	"hyprland/window",
 	],
 
 "modules-center": [
-	"custom/cava_mviz",
 	"clock#2",
-	"hyprland/workspaces#rw",
-	"idle_inhibitor",	
 	"custom/hint",	
 	], 
 
 "modules-right": [
-	"hyprland/window",
+	"custom/updater",
+	"idle_inhibitor",
 	"custom/separator#line",
 	"group/connections",
-	"backlight",
+	"network#speed",
 	"group/audio",
 	"custom/lock",
 	"custom/power",

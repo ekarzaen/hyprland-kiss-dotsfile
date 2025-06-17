@@ -63,7 +63,7 @@
 
 "custom/dot_update": {
 	"format": " 󰁈 ",
-	"on-click": "$HOME/.config/hypr/scripts/KooLsDotsUpdate.sh",
+	"on-click": "$HOME/.local/bin/KooLsDotsUpdate.sh",
 	"tooltip": true,
 	"tooltip-format": "Check KooL Dots update\nIf available",
 },
@@ -132,7 +132,7 @@
 },
     
 "custom/power": {
-	"format": " ⏻ ",
+	"format": " ⏻  ",
 	"on-click": "pkill rofi || ~/.config/rofi/powermenu/type-1/powermenu.sh",
 	"tooltip": true,
 	"tooltip-format": "Right Click: Power Menu",
@@ -180,7 +180,7 @@
 	"exec": "checkupdates | wc -l",
 	"exec-if": "[[ $(checkupdates | wc -l) ]]",
 	"interval": 43200, // (Arch Linux will try to check 12 hrs interval only
-	"on-click": "$HOME/.config/hypr/scripts/Distro_update.sh",
+	"on-click": "$HOME/.local/bin/Distro_update.sh",
 	"tooltip": true,
 	"tooltip-format": "Left Click: Update System\nArch (w/ notification)\nFedora, OpenSuse, Debian/Ubuntu click to update",
 },

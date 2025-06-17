@@ -24,9 +24,8 @@
 "group/motherboard": {
 	"orientation": "horizontal",
 	"modules": [
-		"cpu",
-		"power-profiles-daemon",
 		"memory",
+		"cpu",
 		"temperature",
 		"disk",
 	]
@@ -40,10 +39,9 @@
 		"transition-left-to-right": true
         },
 	"modules": [
+		"memory",
 		"temperature",		
 		"cpu",
-		"power-profiles-daemon",	
-		"memory",
 		"disk",
 	]
 },

@@ -36,8 +36,6 @@
 	], 
 
 "modules-right": [
-	"hyprland/window",
-	"custom/separator#line",
 	"group/connections",
 	"backlight",
 	"group/audio",

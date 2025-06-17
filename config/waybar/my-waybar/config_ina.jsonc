@@ -1,6 +1,6 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+// Sleek
 
-// ### DEFAULT - Top (old v2) ### //
 {
 "include": [
   "$HOME/.config/waybar/Modules",
@@ -10,38 +10,34 @@
   "$HOME/.config/waybar/UserModules",
   ],
 "layer": "top",
-//"mode": "dock",
-"exclusive": true,
-"passthrough": false,
 "position": "top",
-"spacing": 1,
-"fixed-center": true,
-"ipc": true,
-"margin-top": 3,
-"margin-left": 2,
-"margin-right": 2,
-
+"height": 14,
+"margin-left": 10,
+"margin-right": 10,
+"margin-top": 2,
+	
 "modules-left": [
 	"group/app_drawer",
-	"group/mobo_drawer",
-	"custom/updater",
-	],
+	"hyprland/workspaces",
+],
 
 "modules-center": [
-	"custom/cava_mviz",
+	"idle_inhibitor",
+	"custom/separator#blank",
 	"clock#2",
-	"hyprland/workspaces#rw",
-	"idle_inhibitor",	
-	"custom/hint",	
-	], 
-
+],
+		
 "modules-right": [
-	"hyprland/window",
-	"custom/separator#line",
 	"group/connections",
+	"custom/separator#blank",
+	"group/mobo_drawer",
+	"custom/separator#blank",
 	"backlight",
-	"group/audio",
-	"custom/lock",
-	"custom/power",
+	"custom/separator#blank",
+	"pulseaudio",
+	"custom/separator#blank",
+	"battery",
+	"custom/separator#blank",
+	"custom/power",					
 	],
 }

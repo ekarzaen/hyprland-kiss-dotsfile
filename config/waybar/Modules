@@ -126,6 +126,7 @@
 
 "clock#2": {
     //"format": " {:%I:%M %p}", // AM PM format
+    "locale": "id_ID.UTF-8",
     "format": "  {:%H:%M}", // 24H
     "format-alt": "{:%A  |  %H:%M  |  %e %B}",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
@@ -198,6 +199,7 @@
 		"(.*) - fish": "> [$1]",
 		"(.*) - zsh": "> [$1]",
 		"(.*) - $term": "> [$1]",
+		"": "Archlinux",
 	},
 },
 
