@@ -41,6 +41,7 @@
 	"group/connections",
 	"backlight",
 	"group/audio",
+	"battery",
 	"custom/lock",
 	"custom/power",
 	],

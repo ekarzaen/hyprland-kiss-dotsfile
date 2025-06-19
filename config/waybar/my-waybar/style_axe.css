@@ -90,6 +90,7 @@ tooltip {
 #window,
 #wireplumber,
 #workspaces,
+#custom-cava,
 #custom-backlight,
 #custom-browser,
 #custom-cava_mviz,
@@ -221,6 +222,7 @@ tooltip {
 #tray {
 }
 
+#custom-cava,
 #custom-swaync,
 #custom-menu {
     color: @color7; /* Lightest */

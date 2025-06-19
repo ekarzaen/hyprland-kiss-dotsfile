@@ -78,6 +78,7 @@ tooltip {
 #window,
 #wireplumber,
 #workspaces,
+#custom-cava,
 #custom-backlight,
 #custom-browser,
 #custom-cava_mviz,
@@ -141,6 +142,7 @@ tooltip {
 	padding-right: 0px;
 }
 
+#custom-cava,
 #custom-swaync,
 #custom-menu,
 #custom-updater {

@@ -112,6 +112,7 @@ window#waybar.empty #window {
 #window,
 #wireplumber,
 #workspaces,
+#custom-cava,
 #custom-backlight,
 #custom-browser,
 #custom-cava_mviz,
@@ -224,6 +225,10 @@ window#waybar.empty #window {
 }
 
 #custom-menu {
+  color: @rosewater;
+}
+
+#custom-cava {
   color: @rosewater;
 }
 

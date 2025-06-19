@@ -218,7 +218,6 @@
 		"class<subl>": "󰅳 ",
 		"class<slack>": " ",
 
-		"class<mpv>": " ",
 		"class<celluloid|Zoom>": " ",
 		"class<Cider>": "󰎆 ",
 		"title<.*Picture-in-Picture.*>": " ",
@@ -237,7 +236,7 @@
     "class<dev.zed.Zed>": "󰵁",
 		"class<codeblocks>": "󰅩 ",
 		"title<.*github.*>": " ",
-		"class<mousepad>": " ",
+		"class<mousepad|org.gnome.gedit>": " ",
 		"class<libreoffice-writer>": " ",
 		"class<libreoffice-startcenter>": "󰏆 ",
 		"class<libreoffice-calc>": " ",
@@ -262,6 +261,9 @@
    	"class<org.pipewire.Helvum>": "󰓃",
     "class<localsend>":"",
     "class<PrusaSlicer|UltiMaker-Cura|OrcaSlicer>": "󰹛",
+    "class<audacious>": "",
+    "class<mpv>": "󰟞",
+    "class<org.QCAD.qcad-bin>": "󱦹",
 		}
 	},
 }

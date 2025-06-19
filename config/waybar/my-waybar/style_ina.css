@@ -138,7 +138,7 @@ window#waybar.hidden {
 #temperature {
   border-radius: 5px;
   padding: 0px 5px;
-  background-color: @green;
+  background-color: @bg_yellow;
   color: @bg_yellow;
 }
 #temperature.critical {
@@ -149,7 +149,7 @@ window#waybar.hidden {
   border-radius: 5px;
   padding: 0px 5px;
   margin-right: 5px;
-  background-color: @green;
+  background-color: @bg_yellow;
   color: @bg_yellow;
 }
 
@@ -203,7 +203,7 @@ window#waybar.hidden {
   border-radius: 5px;
   padding: 0px 5px;
   margin-left: 5px;
-  background-color: @red;
+  background-color: @blue;
   color: @black;
 }
 
@@ -249,6 +249,14 @@ window#waybar.hidden {
   margin: 0px 5px;
   color: @bg_yellow;
   background-color: @aqua;
+}
+
+#custom-cava {
+  padding: 0px 5px;
+  border-radius: 5px;
+  margin: 0px 5px;
+  color: @red;
+  background-color: @bg_yellow;
 }
 
 #backlight-slider slider,
@@ -298,6 +306,7 @@ window#waybar.hidden {
 #window,
 #wireplumber,
 #workspaces,
+#custom-cava,
 #custom-backlight,
 #custom-browser,
 #custom-cava_mviz,
